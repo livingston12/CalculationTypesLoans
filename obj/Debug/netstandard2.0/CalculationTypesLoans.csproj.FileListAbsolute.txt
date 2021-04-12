@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\bin\Debug\netstandard2.0\CalculationTypesLoans.deps.json
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\bin\Debug\netstandard2.0\CalculationTypesLoans.dll
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\obj\Debug\netstandard2.0\CalculationTypesLoans.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\obj\Debug\netstandard2.0\CalculationTypesLoans.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\obj\Debug\netstandard2.0\CalculationTypesLoans.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\bin\Debug\netstandard2.0\CalculationTypesLoans.pdb
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\obj\Debug\netstandard2.0\CalculationTypesLoans.dll
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\obj\Debug\netstandard2.0\CalculationTypesLoans.pdb
+C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\obj\Debug\netstandard2.0\CalculationTypesLoans.csprojAssemblyReference.cache
