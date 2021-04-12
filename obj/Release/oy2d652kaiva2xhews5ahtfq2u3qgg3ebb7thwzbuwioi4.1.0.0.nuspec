@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>oy2d652kaiva2xhews5ahtfq2u3qgg3ebb7thwzbuwioi4</id>
+    <version>1.0.0</version>
+    <authors>Livingston12</authors>
+    <owners>Livingston12</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>In this application you can return the calculations of the interest rates that exist for loans.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\DELL\source\repos\CalculoTiposPrestamos\CalculationTypesLoans\bin\Release\netstandard2.0\CalculationTypesLoans.dll" target="lib\netstandard2.0\CalculationTypesLoans.dll" />
+  </files>
+</package>
